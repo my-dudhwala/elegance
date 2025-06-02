@@ -1,0 +1,22 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "name": "Black Hoodie",
+      "price": 999,
+      "image": "black-hoodie.jpg"
+    },
+    {
+      "id": 2,
+      "name": "Denim Jacket",
+      "price": 1499,
+      "image": "denim-jacket.jpg"
+    },
+    {
+      "id": 3,
+      "name": "White T-shirt",
+      "price": 499,
+      "image": "white-tshirt.jpg"
+    }
+  ]
+}
