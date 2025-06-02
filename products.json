@@ -4,19 +4,25 @@
       "id": 1,
       "name": "Black Hoodie",
       "price": 999,
-      "image": "black-hoodie.jpg"
+      "image": "black-hoodie.png"
     },
     {
       "id": 2,
       "name": "Denim Jacket",
       "price": 1499,
-      "image": "denim-jacket.jpg"
+      "image": "denim-jacket.png"
     },
     {
       "id": 3,
       "name": "White T-shirt",
       "price": 499,
       "image": "white-tshirt.jpg"
+    },
+        {
+      "id": 4,
+      "name": "Black Shoes",
+      "price": 499,
+      "image": "Black-casual-shoes.png"
     }
   ]
 }
