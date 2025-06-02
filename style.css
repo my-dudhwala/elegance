@@ -30,6 +30,22 @@
   text-decoration: none;
 }
 
+.channel-btn {
+  display: inline-block;
+  margin-top: 15px;
+  padding: 10px 20px;
+  background-color: #28a745;
+  color: white;
+  text-decoration: none;
+  border-radius: 8px;
+  font-weight: bold;
+  transition: background-color 0.3s ease;
+}
+
+.channel-btn:hover {
+  background-color: #218838;
+}
+
 #collab {
   background: #f0f0f0;
   padding: 20px;
